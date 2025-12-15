@@ -103,8 +103,3 @@ arv.print_tree()
 - Utiliza nó sentinela (NIL) para simplificar casos de borda
 - Todos os casos de correção estão implementados
 - A remoção é mais complexa que a inserção devido ao maior número de casos
-
-## Arquivos
-
-- `index.py` - implementação das classes `RBNo` e `RBArvore`
-- `README.md` - este arquivo
